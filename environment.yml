@@ -16,4 +16,5 @@ dependencies:
     - analysisdatalink
     - annotationframeworkclient
     - meshparty
+    - google-resumable-media==0.5.0
 
