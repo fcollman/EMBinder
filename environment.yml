@@ -1,0 +1,19 @@
+name: emtoolschool
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.6.8
+  - seaborn
+  - itkwidgets
+  - pandas
+  - matplotlib
+  - numpy
+  - rtree
+  - k3d
+  - pip:
+    - analysisdatalink
+    - annotationframeworkclient
+    - meshparty
+
